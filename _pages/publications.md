@@ -16,4 +16,4 @@ author_profile: true
 - ### [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program](https://ieeexplore.ieee.org/abstract/document/10386512)
 
   Haoran Jia, Haoyu Li, **Xinyue Li**, Xiaoxian Shen, Yichen Wang, Zichun Liao. \
-  *2023 IEEE International Conference on Big Data (BigData)*, Sorrento, Italy, 2023, pp. 4166-4175, doi: 10.1109/BigData59044.2023.10386512.[code]](https://github.com/xinyue05/Peer-Network-Analysis)
+  *2023 IEEE International Conference on Big Data (BigData)*, Sorrento, Italy, 2023, pp. 4166-4175, doi: 10.1109/BigData59044.2023.10386512.[[code]](https://github.com/xinyue05/Peer-Network-Analysis)
