@@ -1,20 +1,19 @@
 ---
-permalink: /
-title: ""
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
-## About me
+## Conference Papers
 
-I am a first year Ph.D. student in Applied Mathematics at Yale University. I obtained B.S. in Applied Mathematics as well as B.A. in Philosophy from UCLA in 2024.
-My research interests include machine learning theory and high dimensional statistics.
+- ### [Least Squares Regression Can Exhibit Under-Parameterized Double Descent](https://arxiv.org/abs/2305.14689) 
+  
+  **Xinyue Li**, Rishi Sonthalia. \
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems,* 2024. [[code]](https://github.com/xinyue05/Under-Parameterized-Double-Descent)
 
+- ### [Intentional Youth Development Activities and Peer Effects in a Gang Prevention Program](https://ieeexplore.ieee.org/abstract/document/10386512)
 
-## Contact
-
-- Email: xinyue.li.xl728 [at] yale.edu
-- Office: Leet Oliver Memorial Hall (LOM) 226
+  Haoran Jia, Haoyu Li, **Xinyue Li**, Xiaoxian Shen, Yichen Wang, Zichun Liao. \
+  *2023 IEEE International Conference on Big Data (BigData)*, Sorrento, Italy, 2023, pp. 4166-4175, doi: 10.1109/BigData59044.2023.10386512.[code]](https://github.com/xinyue05/Peer-Network-Analysis)
