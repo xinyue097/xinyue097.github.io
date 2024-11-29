@@ -21,8 +21,8 @@ repository               : "xinyue097/xinyue097.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
   name             : "Xinyue Li"
+  avatar           :
   pronouns         : "she/her"  
   bio              : 
   location         : "New Haven, CT"
